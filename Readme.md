@@ -1,4 +1,4 @@
-# Dravyasense – AI-Powered Herbal Purity Analysis
+# DravyaSense – AI-Powered Herbal Purity Analysis
 
 *A real-time IoT + AI system for detecting herbal adulteration.*
 
@@ -17,7 +17,7 @@ The herbal and medicinal product market faces widespread **adulteration**:
 
 ## 💡 Our Solution
 
-Dravyasense provides a **low-cost, real-time, and scalable purity testing platform**:
+DravyaSense provides a **low-cost, real-time, and scalable purity testing platform**:
 
 1. **IoT Hardware (ESP32 + Sensors)**
    Collects pH, TDS, ORP, Temperature, and RGB data from herbal samples.
